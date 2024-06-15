@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/3.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Personal Portfolio 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "My personal portfolio site. Created with html,css,js and deployed to GitHub pages.",
+    url: "https://aprun.github.io/Khalil-Ahmad/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web Scraping",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A python based web scraping tool through which i scraped data of 1 million books and stored it in a csv file.",
+    url: "https://github.com/sma02/DSAMidProjectDev",
   },
   {
-    title: "My Resume Site",
+    title: "Work Nova",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A C# based application for job providing and all management of job. Its developed in C# and winforms a framework of .NET.",
+    url: "https://github.com/APRUN/WorkNova-GUI-_-Application-Finals-MasteredVesrion-_CSharp",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Password Generator",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A web based password generator tool created with html,css and js. Its basic work is to generate random password.",
+    url: "https://github.com/APRUN/Random_PasswordGenerator_WebTool",
   },
 ];
 
